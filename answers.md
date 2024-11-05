@@ -28,6 +28,8 @@ HEAD représente notre position actuelle dans le dépôt. Il pointe vers le dern
 
 ### Task 6
 
+Lorsque l'on Checkout Commit sur le Initial Commit, le HEAD est revenu sur le commit initial c'est à dire la ou on était avant de commencer ce travail. C'est la raison pour laquelle le fichier answers.md devient vièrge. En faisant Checkout Commit sur le dernier Commit, on revient à la version actuelle et donc notre fichier README.md et answers.md reprend la version actuelle. En résumé, le Checkout Commit nous permet de voyager dans le temps de nos différentes périodes de Commit de notre travail.
+
 ## Gitgraph
 
 ### Task 7
